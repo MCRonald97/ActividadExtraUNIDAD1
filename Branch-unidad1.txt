@@ -1,0 +1,29 @@
+UNIDAD 1 RESUMEN
+
+El sistema binario es un sistema numérico que utiliza solo dos dígitos, 0 y 1, para representar valores y realizar operaciones matemáticas. Es utilizado en la electrónica y la informática como la base para representar datos y realizar cálculos.
+
+La lógica es el estudio del razonamiento y argumentación. En informática, se refiere al uso de la lógica para programar computadoras y construir sistemas inteligentes que puedan procesar información y tomar decisiones.
+
+Un algoritmo es una serie de instrucciones o pasos lógicos que se siguen para resolver un problema o realizar una tarea. Es utilizado en informática para diseñar y escribir programas, así como para resolver problemas matemáticos y científicos.
+
+La programación es el proceso de escribir código de programación que se utiliza para crear software y aplicaciones. Los programadores utilizan lenguajes de programación para escribir código que se traduce en instrucciones que la computadora puede entender y ejecutar.
+
+Los editores de texto son programas que permiten a los usuarios crear y editar archivos de texto sin formato. Los entornos de desarrollo son herramientas de software que proporcionan un conjunto completo de funciones para escribir, probar y depurar programas. Ambos son utilizados por programadores para crear y editar código de programación.
+
+
+
+
+
+
+
+EN LA VIDA DIARIA 
+
+El sistema binario se utiliza en la vida cotidiana en dispositivos electrónicos como computadoras, teléfonos móviles, televisores, entre otros, ya que la información que procesan y almacenan se representa en forma binaria.
+
+El razonamiento lógico se utiliza en la vida cotidiana para tomar decisiones, resolver problemas y argumentar con otras personas. En el ámbito informático, la lógica es fundamental en la programación de sistemas inteligentes, como chatbots y asistentes virtuales.
+
+Los algoritmos se utilizan en la vida cotidiana en aplicaciones como navegadores web, redes sociales, motores de búsqueda, GPS, entre otros. Estas aplicaciones utilizan algoritmos para procesar y analizar grandes cantidades de datos y proporcionar información útil al usuario.
+
+La programación se utiliza en la vida cotidiana para desarrollar software y aplicaciones que facilitan diversas tareas, como la comunicación, el entretenimiento, la educación y el trabajo. Además, la programación también se utiliza en la automatización de tareas en la industria, como la robótica y la producción en masa.
+
+Los editores de texto y entornos de desarrollo se utilizan en la vida cotidiana por programadores y desarrolladores de software para crear, editar y depurar código de programación. Además, estos programas también son utilizados por estudiantes y profesionales de otras áreas para crear documentos de texto, presentaciones y hojas de cálculo.
