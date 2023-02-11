@@ -1,14 +1,19 @@
+# RONALDO DELGAGO ORTEGA NUBERMO DE CARNET:23001228 
+
+## la Licencia Apache es una buena opci√≥n para proyectos alojados en GitHub que desean proporcionar a los usuarios una amplia libertad para usar, modificar y distribuir el software, al tiempo que brindan protecci√≥n contra demandas de patentes y reconocen las contribuciones de los desarrolladores.
+
+
 UNIDAD 1 RESUMEN
 
-El sistema binario es un sistema numÈrico que utiliza solo dos dÌgitos, 0 y 1, para representar valores y realizar operaciones matem·ticas. Es utilizado en la electrÛnica y la inform·tica como la base para representar datos y realizar c·lculos.
+El sistema binario es un sistema num√©rico que utiliza solo dos d√≠gitos, 0 y 1, para representar valores y realizar operaciones matem√°ticas. Es utilizado en la electr√≥nica y la inform√°tica como la base para representar datos y realizar c√°lculos.
 
-La lÛgica es el estudio del razonamiento y argumentaciÛn. En inform·tica, se refiere al uso de la lÛgica para programar computadoras y construir sistemas inteligentes que puedan procesar informaciÛn y tomar decisiones.
+La l√≥gica es el estudio del razonamiento y argumentaci√≥n. En inform√°tica, se refiere al uso de la l√≥gica para programar computadoras y construir sistemas inteligentes que puedan procesar informaci√≥n y tomar decisiones.
 
-Un algoritmo es una serie de instrucciones o pasos lÛgicos que se siguen para resolver un problema o realizar una tarea. Es utilizado en inform·tica para diseÒar y escribir programas, asÌ como para resolver problemas matem·ticos y cientÌficos.
+Un algoritmo es una serie de instrucciones o pasos l√≥gicos que se siguen para resolver un problema o realizar una tarea. Es utilizado en inform√°tica para dise√±ar y escribir programas, as√≠ como para resolver problemas matem√°ticos y cient√≠ficos.
 
-La programaciÛn es el proceso de escribir cÛdigo de programaciÛn que se utiliza para crear software y aplicaciones. Los programadores utilizan lenguajes de programaciÛn para escribir cÛdigo que se traduce en instrucciones que la computadora puede entender y ejecutar.
+La programaci√≥n es el proceso de escribir c√≥digo de programaci√≥n que se utiliza para crear software y aplicaciones. Los programadores utilizan lenguajes de programaci√≥n para escribir c√≥digo que se traduce en instrucciones que la computadora puede entender y ejecutar.
 
-Los editores de texto son programas que permiten a los usuarios crear y editar archivos de texto sin formato. Los entornos de desarrollo son herramientas de software que proporcionan un conjunto completo de funciones para escribir, probar y depurar programas. Ambos son utilizados por programadores para crear y editar cÛdigo de programaciÛn.
+Los editores de texto son programas que permiten a los usuarios crear y editar archivos de texto sin formato. Los entornos de desarrollo son herramientas de software que proporcionan un conjunto completo de funciones para escribir, probar y depurar programas. Ambos son utilizados por programadores para crear y editar c√≥digo de programaci√≥n.
 
 
 
@@ -18,12 +23,12 @@ Los editores de texto son programas que permiten a los usuarios crear y editar a
 
 EN LA VIDA DIARIA 
 
-El sistema binario se utiliza en la vida cotidiana en dispositivos electrÛnicos como computadoras, telÈfonos mÛviles, televisores, entre otros, ya que la informaciÛn que procesan y almacenan se representa en forma binaria.
+El sistema binario se utiliza en la vida cotidiana en dispositivos electr√≥nicos como computadoras, tel√©fonos m√≥viles, televisores, entre otros, ya que la informaci√≥n que procesan y almacenan se representa en forma binaria.
 
-El razonamiento lÛgico se utiliza en la vida cotidiana para tomar decisiones, resolver problemas y argumentar con otras personas. En el ·mbito inform·tico, la lÛgica es fundamental en la programaciÛn de sistemas inteligentes, como chatbots y asistentes virtuales.
+El razonamiento l√≥gico se utiliza en la vida cotidiana para tomar decisiones, resolver problemas y argumentar con otras personas. En el √°mbito inform√°tico, la l√≥gica es fundamental en la programaci√≥n de sistemas inteligentes, como chatbots y asistentes virtuales.
 
-Los algoritmos se utilizan en la vida cotidiana en aplicaciones como navegadores web, redes sociales, motores de b˙squeda, GPS, entre otros. Estas aplicaciones utilizan algoritmos para procesar y analizar grandes cantidades de datos y proporcionar informaciÛn ˙til al usuario.
+Los algoritmos se utilizan en la vida cotidiana en aplicaciones como navegadores web, redes sociales, motores de b√∫squeda, GPS, entre otros. Estas aplicaciones utilizan algoritmos para procesar y analizar grandes cantidades de datos y proporcionar informaci√≥n √∫til al usuario.
 
-La programaciÛn se utiliza en la vida cotidiana para desarrollar software y aplicaciones que facilitan diversas tareas, como la comunicaciÛn, el entretenimiento, la educaciÛn y el trabajo. Adem·s, la programaciÛn tambiÈn se utiliza en la automatizaciÛn de tareas en la industria, como la robÛtica y la producciÛn en masa.
+La programaci√≥n se utiliza en la vida cotidiana para desarrollar software y aplicaciones que facilitan diversas tareas, como la comunicaci√≥n, el entretenimiento, la educaci√≥n y el trabajo. Adem√°s, la programaci√≥n tambi√©n se utiliza en la automatizaci√≥n de tareas en la industria, como la rob√≥tica y la producci√≥n en masa.
 
-Los editores de texto y entornos de desarrollo se utilizan en la vida cotidiana por programadores y desarrolladores de software para crear, editar y depurar cÛdigo de programaciÛn. Adem·s, estos programas tambiÈn son utilizados por estudiantes y profesionales de otras ·reas para crear documentos de texto, presentaciones y hojas de c·lculo.
+Los editores de texto y entornos de desarrollo se utilizan en la vida cotidiana por programadores y desarrolladores de software para crear, editar y depurar c√≥digo de programaci√≥n. Adem√°s, estos programas tambi√©n son utilizados por estudiantes y profesionales de otras √°reas para crear documentos de texto, presentaciones y hojas de c√°lculo.
